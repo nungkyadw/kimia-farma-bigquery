@@ -8,6 +8,6 @@ SELECT
 FROM `rakamin-kf-analytics-456312.Kimia_Farma.kimia_farma_analysis`
 ```
 dan hasil adalah
-
+![](summary.png)
 
 
