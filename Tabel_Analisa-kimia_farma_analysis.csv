@@ -1,0 +1,501 @@
+transaction_id,date,branch_id,branch_name,kota,provinsi,rating_cabang,customer_name,rating_transaksi,product_id,product_name,actual_price,discount_percentage,persentase_gross_laba,nett_sales,nett_profit
+TRX2470136,10/26/2023,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Bernard Curry,3.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1358386,9/2/2023,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.5,Anthony Henderson,4.2,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7289545,6/25/2023,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.7,Becky Jones,4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9519606,8/9/2022,61804,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Matthew Barton,4.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX2777321,6/26/2020,27840,Kimia Farma - Apotek,Denpasar,Bali,4.3,Debra Decker,4.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9447211,3/13/2022,69761,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Susan Castaneda DDS,4.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9209768,10/18/2022,24592,Kimia Farma - Apotek,Ciamis,Jawa Barat,3.9,Brandon Long,3.9,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8438361,9/12/2021,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Jennifer Chase,3.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1107053,5/19/2022,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Calvin Phillips,3.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1242138,2/20/2023,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Kelsey Guerrero,4.9,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8995079,11/30/2022,12333,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.6,David Greene,3.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX6079169,7/8/2021,98907,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Angel Scott,3.8,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX4001949,2/17/2023,70395,Kimia Farma - Apotek,Medan,Sumatera Utara,4.6,Bobby Henderson,4.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9245478,10/2/2022,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Willie Underwood,4.3,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX3431345,9/30/2022,69060,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,William Humphrey,4.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8644334,9/17/2021,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.6,John Copeland,3.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7910301,12/29/2021,89507,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.2,Melissa Perez,3.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX3702686,8/19/2023,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Joseph Ryan,4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX6336651,9/18/2022,69548,Kimia Farma - Apotek,Tangerang,Banten,4,Lee Munoz,3.3,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX4748811,5/2/2022,30640,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Emma Escobar,4.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX5931038,1/12/2023,71367,Kimia Farma - Apotek,Dumai,Riau,4.2,Molly Scott,3.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1284472,5/13/2022,81008,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.8,Jordan Thomas,4.4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX5343292,1/10/2021,47691,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.9,Kristie Shaffer,4.8,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX6546427,12/26/2021,47175,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.9,Carol Hurley,3,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8421960,5/3/2022,73569,Kimia Farma - Apotek,Madiun,Jawa Timur,4.4,Jeanne Brown,3.9,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1361086,5/12/2020,34591,Kimia Farma - Apotek,Jayapura,Papua,4.4,Drew Butler,4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9611607,3/18/2022,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Christine Young,4.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX6366480,1/27/2020,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Joseph Burch,3.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9711768,5/27/2021,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.6,Douglas Hodges,4.9,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7252936,5/3/2020,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Eric Thomas,4.8,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX6267499,11/12/2022,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.6,Jordan Hodges,4.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX3433796,4/11/2021,80343,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.5,Peggy Ford,4.9,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1518991,3/13/2023,29460,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.5,William Bates,3.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7973281,12/7/2023,39160,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Michael Wilson,4.2,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX3224175,8/7/2023,14799,Kimia Farma - Apotek,Ambon,Maluku,4.6,Paul Ortiz,3.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8573743,12/3/2023,94165,Kimia Farma - Apotek,Karawang,Jawa Barat,4.6,James Sanders,4.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX2506639,2/26/2023,99669,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.2,Alexandra Gutierrez,3.1,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX9046619,9/27/2020,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,David Murray,3.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX8330686,2/9/2023,37734,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.6,Robert Logan,3.6,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX5209704,7/5/2021,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.7,Joshua Lawson PhD,4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX2072820,7/19/2021,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.2,Logan Garcia,3.4,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7674846,6/6/2023,82095,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.4,Julie West,4.2,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX5261360,3/24/2023,61916,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.1,Seth Bennett,3.3,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX7887870,12/9/2022,96487,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.8,Joseph Clark,3.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX2587525,8/17/2020,51833,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.2,Ashley Allen,4.5,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1129495,1/19/2023,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.4,Michael Thompson,4.7,KF829,Drugs for obstructive airway diseases,76900,0.15,0.15,65365,9804.75
+TRX1914562,4/23/2023,54078,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.7,Lori Lindsey,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3304795,9/19/2022,65025,Kimia Farma - Apotek,Denpasar,Bali,4.2,John Castaneda,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6703895,3/20/2021,19169,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.5,Kimberly Rogers,4.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8348523,9/17/2022,25947,Kimia Farma - Apotek,Denpasar,Bali,4.2,Robert Campbell,3.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7415077,5/22/2020,69565,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.1,Christian Carter,3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1343111,10/25/2022,40467,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.4,Dr. Michael Melendez,3.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1716242,2/12/2020,63863,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,Lisa Holland,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2989511,7/15/2023,76154,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Phillip Hughes,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9198688,2/20/2021,20073,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4,James Williams,3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3394170,10/17/2020,63792,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.1,Michael Wilkinson,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2472830,7/2/2021,63673,Kimia Farma - Apotek,Sorong,Papua Barat,4.8,Kenneth Castro,4.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2990915,2/17/2020,70595,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Margaret Bishop,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4884532,1/14/2020,47927,Kimia Farma - Apotek,Jambi,Jambi,4.7,Randy Grant,4.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8494580,4/20/2022,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.8,Michael Gonzalez,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2940670,4/14/2021,56877,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Michelle Lee DDS,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6912154,4/7/2022,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Erica Ware,4.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4512183,11/15/2020,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Erica Jackson,4.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6178395,1/13/2020,13831,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.1,Eric Benson,5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1672635,4/17/2022,34591,Kimia Farma - Apotek,Jayapura,Papua,4.4,Amanda Harris,3.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2499073,2/27/2023,46551,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Taylor Strong,3.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2432938,2/7/2020,41701,Kimia Farma - Apotek,Pekanbaru,Riau,4.4,Ian Harmon,3.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7901195,2/20/2023,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.3,Bridget Griffin,3.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3186895,6/15/2022,94743,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.9,Rebecca Gonzalez,3.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4904088,12/7/2021,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.5,Jasmine Reilly,3.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3353357,4/22/2020,96720,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4,William Salazar,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7110318,9/27/2023,61194,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.2,Kevin Hernandez MD,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6920327,12/6/2022,78158,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.1,William Schultz,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3167785,3/22/2021,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.4,Kelsey Sutton,3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7657845,4/22/2020,56877,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Christian Nelson,3.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5810453,11/29/2020,51463,Kimia Farma - Apotek,Ternate,Maluku Utara,4.4,Joseph Collins,4.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9075525,12/10/2022,17275,Kimia Farma - Apotek,Banda Aceh,Aceh,3.9,Nancy Thomas,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1863434,4/17/2020,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Benjamin Cooke,4.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5901711,5/11/2023,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Stacie Wall,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4009692,5/19/2023,27679,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Jennifer Wolfe,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9554751,6/27/2023,42965,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Kristin Nelson,3.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8535845,9/25/2023,85014,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4,Shari Frey,4.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7982408,2/2/2022,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Garrett Simmons,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5706948,6/16/2022,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.2,Carmen Wright,3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4312675,12/28/2020,50288,Kimia Farma - Apotek,Ternate,Maluku Utara,4.4,Max Bruce,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5645928,8/18/2023,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.6,Michelle Alexander,3.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4284386,4/3/2020,24592,Kimia Farma - Apotek,Ciamis,Jawa Barat,3.9,Christy Wilson,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7245260,5/31/2023,14693,Kimia Farma - Apotek,Karawang,Jawa Barat,3.9,Kevin Chapman,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1705584,2/27/2021,57503,Kimia Farma - Apotek,Subang,Jawa Barat,4.6,Michael Malone,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6976207,2/11/2022,68556,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.8,Nicole Quinn,3.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7376632,12/18/2022,25572,Kimia Farma - Apotek,Bontang,Kalimantan Timur,3.9,Amanda Baker,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4519587,11/7/2020,46902,Kimia Farma - Apotek,Cirebon,Jawa Barat,4,Elizabeth Gordon,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5138548,2/16/2021,30247,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Joanna Garza,4.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7450016,2/23/2022,77824,Kimia Farma - Apotek,Banda Aceh,Aceh,4.5,Christopher Nichols,4.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5713006,11/3/2021,31365,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.4,Carla Kelly,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8445315,11/9/2022,59765,Kimia Farma - Apotek,Garut,Jawa Barat,4.1,Robert Fitzgerald,4.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9216895,7/10/2021,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.2,Steven Crawford,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3159524,8/2/2021,46902,Kimia Farma - Apotek,Cirebon,Jawa Barat,4,Denise Little,3.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9174626,10/1/2021,84443,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.2,Becky Garza,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9726094,3/20/2021,21840,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.9,Alicia Willis,3.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6603603,10/23/2023,77824,Kimia Farma - Apotek,Banda Aceh,Aceh,4.5,Katherine Palmer,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2811699,8/4/2021,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Veronica Lopez,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1628220,8/29/2023,83357,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.2,Evan Walsh,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9540051,2/14/2020,80176,Kimia Farma - Apotek,Dumai,Riau,4.7,Vincent Wolfe,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1143477,12/24/2021,52680,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.3,Anthony Sanders,4.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2047087,3/28/2021,42273,Kimia Farma - Apotek,Ternate,Maluku Utara,4.2,Raymond Cohen,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5412701,5/2/2023,92115,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.5,Jeff Davis,4.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5270278,1/17/2021,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Gregory Perez,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5906866,9/24/2020,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.2,Nicole Rangel,4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5479816,12/10/2020,52680,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.3,Patricia Hines,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3105722,8/21/2021,68894,Kimia Farma - Apotek,Madiun,Jawa Timur,4.2,Benjamin Rodriguez,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5908003,1/4/2021,76170,Kimia Farma - Apotek,Tangerang,Banten,4.3,Gary Thomas,3.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9886344,6/2/2022,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.7,Steve Carroll,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9141661,9/8/2020,23156,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Carrie Mcdaniel,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1460221,11/22/2023,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Kim James,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7691379,7/6/2021,80387,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.9,Samantha Prince,3.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7949942,12/24/2022,98300,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Jesse Adams,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1911460,10/14/2020,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.7,Matthew Clark,3.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5150822,5/21/2023,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Taylor Hoffman,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9099267,3/4/2021,63214,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.5,Joshua Mathis,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9171554,4/13/2021,69060,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Troy Benton,4.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5156822,12/17/2020,48997,Kimia Farma - Apotek,Padang,Sumatera Barat,4.2,Kathleen Freeman,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7605680,1/16/2021,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.7,James Brown,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6329578,1/7/2022,75181,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.4,Tammy Sanchez,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5566495,3/24/2020,68894,Kimia Farma - Apotek,Madiun,Jawa Timur,4.2,Jasmine Kane,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5141405,5/11/2023,61804,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,Terri Miller,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6939723,8/20/2023,65315,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Brian Cook,4.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5031467,5/19/2020,62744,Kimia Farma - Apotek,Sorong,Papua Barat,4.9,Jennifer Martin,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4882838,7/15/2022,54372,Kimia Farma - Apotek,Padang,Sumatera Barat,4.2,Michael Yang,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3419739,8/10/2020,94162,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,5,Jose Christensen,4.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7071343,11/13/2023,78158,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.1,Bruce Vasquez,3.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4453842,9/12/2021,66421,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,5,Miguel Mathis,3.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5813040,1/8/2021,86131,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Tracy Murphy,4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2253418,10/6/2022,12369,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.4,Norma Morales,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4306374,10/15/2023,12558,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.4,Caitlin Mills,4.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5182168,1/29/2023,49438,Kimia Farma - Apotek,Ternate,Maluku Utara,4.9,Gary Jacobs,4.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3350757,2/29/2020,15338,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,3.9,William Figueroa,4.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6333081,5/15/2020,31604,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.4,Rachel Chung,4.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3750208,6/19/2023,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Mark Horne,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8218677,11/1/2020,76154,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Teresa Flowers,4.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3943423,7/8/2022,57503,Kimia Farma - Apotek,Subang,Jawa Barat,4.6,Mr. Michael Alvarado,4.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3572767,10/31/2022,13775,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Linda Haynes,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4285174,11/26/2022,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.1,Marissa Johnson,4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1189310,7/9/2023,82315,Kimia Farma - Apotek,Bogor,Jawa Barat,4.6,Heather Payne,4.1,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7960474,8/2/2020,25090,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.1,Rachael Duncan,4.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5994316,8/5/2020,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Rebecca Baker,3.4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9800747,8/25/2022,89772,Kimia Farma - Apotek,Langsa,Aceh,3.9,Amber Gibson,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7386447,7/27/2021,50821,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.5,Sara Woods,3.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9845478,9/8/2022,29933,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.2,Cory Dennis,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1759442,6/5/2021,85287,Kimia Farma - Apotek,Sorong,Papua Barat,4.9,Robin Graves,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5389318,8/8/2023,96172,Kimia Farma - Apotek,Tangerang,Banten,3.9,Jennifer Berry,5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4460264,4/8/2022,16596,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.1,Edward Miller,3.2,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7552451,11/20/2022,73855,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Marvin Noble,4.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7452920,5/24/2020,72440,Kimia Farma - Apotek,Banda Aceh,Aceh,4.3,Justin Garcia,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX4312389,6/25/2023,71355,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Nathaniel Wells,4.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1897868,12/13/2022,89840,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.9,Christian Kerr,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5265747,10/13/2020,39527,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.6,Alicia Martin,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX1967690,3/5/2020,46757,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.2,Rebecca Flores,3.7,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX5463561,10/24/2023,61185,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.4,Kayla Kane,4.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX8678869,7/19/2021,33006,Kimia Farma - Apotek,Karawang,Jawa Barat,4.7,Joan Newman,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6369783,4/27/2020,37995,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.4,Sarah Andrews,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX7508981,12/3/2020,46963,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.3,Richard Mays,3.9,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2009014,5/11/2020,20476,Kimia Farma - Apotek,Bogor,Jawa Barat,4.8,Aaron Higgins,4,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX9728782,2/21/2020,73008,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,5,Patrick Flores,3.5,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX3338569,1/27/2022,99697,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Carrie Johnson,3.6,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX6879942,5/30/2021,55568,Kimia Farma - Apotek,Medan,Sumatera Utara,4.9,Elizabeth Webb,4.3,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2768271,1/30/2021,68908,Kimia Farma - Apotek,Jayapura,Papua,4.5,Timothy Francis DDS,4.8,KF829,Drugs for obstructive airway diseases,76900,0.14,0.15,66134,9920.1
+TRX2754070,8/9/2021,63673,Kimia Farma - Apotek,Sorong,Papua Barat,4.8,Scott Bennett,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2303741,2/6/2021,40120,Kimia Farma - Apotek,Jayapura,Papua,3.9,Heather Patrick,3.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2131042,11/12/2021,75553,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Jamie Montgomery,4.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7232805,9/11/2023,69800,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,4.7,Diana Simmons,4.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2173322,6/11/2020,67807,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.4,Alan Wilson,3.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2291261,5/11/2023,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,4.8,Jesse Campos,3.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4481591,4/1/2020,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4,Karen Henson,4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6171032,2/23/2023,27840,Kimia Farma - Apotek,Denpasar,Bali,4.3,Bobby Brewer,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1955776,1/12/2022,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Nicole Graham,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5746123,12/23/2023,40832,Kimia Farma - Apotek,Bekasi,Jawa Barat,5,Scott Wagner,4.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7229766,2/9/2022,65138,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.5,Vanessa Mcdaniel,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2246176,6/14/2020,23248,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.1,Joyce Singleton,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5449278,8/15/2022,39578,Kimia Farma - Apotek,Ambon,Maluku,4.7,Tiffany Sparks,4.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8226229,11/26/2022,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Joshua Wright,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8357181,4/7/2020,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Jill Boyle,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4346450,10/4/2021,42814,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.5,Kathryn Young,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3666430,8/8/2023,73969,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.1,Karen Burton,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2073697,12/24/2023,18484,Kimia Farma - Apotek,Karawang,Jawa Barat,4,Matthew Monroe,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6304753,3/13/2021,37602,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Cassidy Perkins,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9035526,7/2/2021,49260,Kimia Farma - Apotek,Ambon,Maluku,4.2,Nicholas Huber,4.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4356676,9/15/2020,90512,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4,Patricia Harrison,3.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9816159,1/17/2023,19017,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,5,Mackenzie Acosta,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2785619,11/27/2021,80176,Kimia Farma - Apotek,Dumai,Riau,4.7,Charles Haynes,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1737666,8/13/2021,64080,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.1,Katherine Snyder,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6378635,7/8/2022,75720,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.5,Richard Juarez,4.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8775291,4/5/2020,25090,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.1,Colleen Hunter,3.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9052952,9/26/2020,65138,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.5,Miranda Jennings,3.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7591428,7/14/2020,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.2,Jessica Meyer,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4299647,9/12/2022,83357,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.2,Lance Wade,3.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8712776,10/3/2020,39160,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Leslie Klein,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2412005,1/17/2020,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.8,Rose Glover,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3490610,2/4/2023,32463,Kimia Farma - Apotek,Solok,Sumatera Barat,3.9,Christopher Maynard,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3830545,10/25/2023,44155,Kimia Farma - Apotek,Jayapura,Papua,5,John Anderson,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4582835,9/11/2023,20073,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4,Dawn Rodriguez,4.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9186700,10/30/2022,42814,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.5,Gabrielle Harvey,3.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5012897,8/5/2023,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.6,Brenda Stephens,3.8,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9963025,2/27/2020,65969,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Savannah Hardy,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9884751,8/5/2020,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Nicole Savage,3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2373291,12/10/2021,98041,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,David Becker,4.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8158338,8/24/2021,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.9,Sandra Mathis,4.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1913359,7/4/2021,93702,Kimia Farma - Apotek,Jayapura,Papua,4.3,Brandon Mcgee,3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4508147,1/22/2022,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Sarah Roberts,4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1013608,11/10/2023,47178,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.2,Derrick Wright,4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5166817,3/27/2021,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.2,Kayla Ruiz,3.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4917060,9/23/2023,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.4,Shelby Coleman,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2704885,8/22/2020,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Justin Johnson,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6446240,6/7/2020,67421,Kimia Farma - Apotek,Bontang,Kalimantan Timur,3.9,Oscar Beasley,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4373417,11/2/2022,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Angela Ball,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4477217,11/1/2022,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,David Stewart,3.8,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8166387,12/3/2023,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Daniel Hill,4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9374850,5/15/2023,70971,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.8,Ashley Ward,5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1966005,11/5/2022,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Brian Smith,3.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2498604,1/27/2022,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.4,William Henry,4.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1126289,12/6/2020,29094,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.6,Reginald Hatfield,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6021333,8/8/2023,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,Michelle Williams,4.8,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3272829,12/31/2022,75553,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Monica Smith,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4345129,4/15/2023,96210,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.1,Gloria White,4.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8237872,10/10/2020,90206,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.7,Fred Martinez,4.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1902867,11/14/2020,13792,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4,Patrick Carter,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1633387,6/3/2023,30119,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.3,Kyle Vincent,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5863082,7/31/2022,57562,Kimia Farma - Apotek,Probolinggo,Jawa Timur,5,Felicia May,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9520940,9/29/2023,69761,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Casey Smith,5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8574047,10/16/2023,68908,Kimia Farma - Apotek,Jayapura,Papua,4.5,Lawrence Vargas,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4392949,8/24/2020,61789,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Christina Reeves,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2233105,1/19/2022,98818,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.6,Selena Mcgrath,4.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1875714,4/8/2021,98837,Kimia Farma - Apotek,Bandung,Jawa Barat,4.6,Ryan Harris,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9300738,2/6/2023,99281,Kimia Farma - Apotek,Dumai,Riau,4.2,Shawn Thomas,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3851288,12/1/2022,31604,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.4,Rachel Burns,4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3862539,4/8/2023,66525,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,Melanie Costa,4.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4249382,3/10/2021,14799,Kimia Farma - Apotek,Ambon,Maluku,4.6,Edward Weeks,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7128175,2/4/2021,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,4.5,Joe Lewis,4.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8113164,8/22/2020,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.4,Charles Campbell,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2653920,6/1/2023,39578,Kimia Farma - Apotek,Ambon,Maluku,4.7,William Lin,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8120759,12/9/2020,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,4.5,Gina Guzman,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2857664,4/2/2020,69565,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.1,Brian Sharp,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3161849,2/15/2021,49726,Kimia Farma - Apotek,Jayapura,Papua,4.9,Lisa Silva,3.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1420538,3/1/2022,12338,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.6,Kristin Pena,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6475851,11/14/2023,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.2,Kristin Wong,4.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3751593,6/7/2021,32463,Kimia Farma - Apotek,Solok,Sumatera Barat,3.9,Denise Thompson,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1050358,4/5/2023,57365,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.2,Henry Anderson,4.8,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6138710,2/16/2020,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Gerald Richardson,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9542463,6/15/2021,80525,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Larry Williams Jr.,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9256749,1/16/2023,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Pamela Wolfe,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3638790,8/6/2022,92755,Kimia Farma - Apotek,Bekasi,Jawa Barat,5,Angela Nixon,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2859637,4/25/2023,76725,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,James Moses,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6358916,6/16/2021,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,William Walker,3.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5725197,7/21/2022,94743,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.9,Shane Long,3.3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8568514,12/4/2022,82428,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.9,Elizabeth Lane,3.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX6770998,6/25/2022,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.2,Marissa Holt,4.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3406992,9/4/2022,99182,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.6,John Valentine,4.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5575488,2/9/2020,33069,Kimia Farma - Apotek,Garut,Jawa Barat,3.9,Rebecca Wheeler,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2329921,8/18/2023,75720,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.5,Stephanie Smith,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7265975,3/12/2023,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.2,Andrew Rhodes,4.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX9090161,10/30/2021,96487,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.8,Carolyn Thomas,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5811525,5/17/2020,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,Amy Tucker,3.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7279460,2/7/2020,97760,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Robin Pittman,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4275580,11/13/2020,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Angela Wheeler,4.8,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX5391327,9/11/2023,78115,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Dennis Reynolds,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX1239816,2/18/2023,72440,Kimia Farma - Apotek,Banda Aceh,Aceh,4.3,Paul Shaw,3,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2925138,9/27/2022,37191,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,3.9,Daniel Smith,3.1,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8839573,12/5/2023,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,5,Nicholas Cole,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8469515,12/23/2023,92100,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Mark Olson,3.4,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX4776285,3/17/2020,12174,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.7,Kurt Cross,4.5,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2185634,8/12/2022,54200,Kimia Farma - Apotek,Purwakarta,Jawa Barat,3.9,Anthony Wood,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX3093186,1/5/2021,78115,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Amy Shah,4.9,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2447925,5/29/2023,31365,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.4,Kimberly Howard,3.7,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX8010670,5/20/2022,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Joshua Coleman,3.2,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX2474437,5/30/2020,90415,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Jennifer Padilla,4.6,KF829,Drugs for obstructive airway diseases,76900,0.13,0.15,66903,10035.45
+TRX7622163,12/8/2020,49833,Kimia Farma - Apotek,Pekanbaru,Riau,4.2,Rodney Ortega,3.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6534418,5/20/2022,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Joseph Stewart,4.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9502450,1/14/2023,49902,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Victoria Williams,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4094572,6/28/2020,89566,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.4,Carl Davis,4.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2393703,6/22/2022,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Amy Santos,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1144164,10/17/2022,13089,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Margaret Miles,3.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9270460,3/29/2023,66421,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,5,James White,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1510270,3/10/2022,22526,Kimia Farma - Apotek,Jambi,Jambi,4.3,Audrey Wallace,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1499656,7/26/2021,65969,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Nancy Herrera,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3037164,4/15/2020,41085,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,5,Gene Lindsey,3.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4266698,5/25/2021,27441,Kimia Farma - Apotek,Lhokseumawe,Aceh,5,Linda Hall,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3586774,8/14/2022,38733,Kimia Farma - Apotek,Ambon,Maluku,4.9,Tina Jones,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2294927,4/30/2023,14693,Kimia Farma - Apotek,Karawang,Jawa Barat,3.9,Jaime Jackson,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8693925,4/24/2021,70395,Kimia Farma - Apotek,Medan,Sumatera Utara,4.6,Robert Brown,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3176471,1/11/2022,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.9,Anthony White,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6174065,6/1/2021,31604,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.4,Ann Schmidt,3.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7404156,3/28/2022,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.4,Kenneth Bradshaw,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1378566,11/23/2021,98818,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.6,Joe Anderson MD,4.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8132929,8/27/2021,40832,Kimia Farma - Apotek,Bekasi,Jawa Barat,5,Jimmy Bowers,4.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2913007,7/28/2023,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.1,Nathaniel Hawkins,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5509421,7/29/2022,57562,Kimia Farma - Apotek,Probolinggo,Jawa Timur,5,Dylan Whitaker,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5171529,1/8/2021,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.2,Amanda Bradley,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4670023,11/6/2022,88319,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.8,Andrew Kerr,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5415717,3/6/2020,45422,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,Matthew Ramos,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4101534,11/17/2020,47344,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.9,Steven Kim,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6240659,6/27/2023,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.7,Cassandra Young,3.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4871369,1/16/2020,13831,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.1,Alexandra Watson,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4849809,10/27/2022,92076,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,David Hanna,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5218677,6/26/2023,68942,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.8,Daniel Haley,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2472778,3/6/2021,96210,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.1,Justin Durham,4.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4204473,4/27/2023,34489,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Dawn Bentley,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8337696,9/1/2020,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.7,Nathan Martinez,3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5152389,9/1/2022,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,4.1,Lisa David,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5267383,10/6/2021,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Mark Shah,4.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6496731,10/9/2020,66847,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.4,Rebecca Fletcher,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6565829,7/6/2023,19224,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.4,Casey Williamson,5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2640628,5/28/2022,54200,Kimia Farma - Apotek,Purwakarta,Jawa Barat,3.9,Rhonda Peterson,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1513260,12/18/2021,82564,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.2,Christopher Chase,3.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5876288,9/26/2020,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.7,Steve Rojas,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3486497,11/29/2021,12406,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.2,Renee Delgado,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4750384,12/10/2021,98811,Kimia Farma - Apotek,Bontang,Kalimantan Timur,4.9,Emily Kramer,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7786952,8/7/2021,65187,Kimia Farma - Apotek,Tangerang,Banten,4.5,Angela Brown,3.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4205652,8/8/2020,30539,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.4,Michelle Harrell,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8068485,8/18/2023,81008,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.8,Nicholas Mcmahon,3.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9347719,11/18/2022,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Ashlee Reed,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1715941,8/16/2021,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.1,Thomas Smith,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2436549,11/17/2020,77824,Kimia Farma - Apotek,Banda Aceh,Aceh,4.5,Kelsey Moore,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3485007,1/27/2020,89772,Kimia Farma - Apotek,Langsa,Aceh,3.9,Lindsay Hayes,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1502409,3/8/2021,12991,Kimia Farma - Apotek,Garut,Jawa Barat,3.9,Dr. Matthew Campos Jr.,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6115210,12/6/2023,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Jacqueline Mendez,5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3169348,12/28/2021,34030,Kimia Farma - Apotek,Solok,Sumatera Barat,4.2,Alan Barton,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6010155,12/13/2020,23647,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Deborah Roberts,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5432886,8/24/2022,86131,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Shawn Miller DDS,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5091711,3/29/2022,99409,Kimia Farma - Apotek,Bekasi,Jawa Barat,4,Paula Cox,3.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8958293,12/28/2020,89840,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.9,Stephanie Dunn,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1584362,1/25/2020,96172,Kimia Farma - Apotek,Tangerang,Banten,3.9,Bobby York,4.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8756760,9/29/2020,17567,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.9,Denise Roberts,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4501851,1/3/2023,53959,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,Christopher Porter,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9217734,10/3/2021,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.7,Alexander Rose,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9984204,7/6/2023,11999,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Scott Knox,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7320195,1/19/2020,13883,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.7,Tiffany Fleming,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7114749,1/28/2023,73814,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.7,Carolyn Aguilar,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5154731,12/28/2021,73855,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4,Richard Davis,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8250156,6/6/2020,96462,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Whitney Powell,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1141107,5/6/2021,55386,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.3,John Walker,4.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2274226,7/28/2023,17476,Kimia Farma - Apotek,Jambi,Jambi,4.5,Anne Villa,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8347010,8/13/2021,16040,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Dale Harrington,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2652776,9/11/2020,20598,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.4,Bryan Reyes,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6595325,4/28/2020,98818,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.6,Keith Olson,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5217632,6/14/2022,29115,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,Alexis Moore,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6206844,11/24/2021,27441,Kimia Farma - Apotek,Lhokseumawe,Aceh,5,Tina Sanchez,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2265818,9/21/2020,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.6,Russell Ferguson,4.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1825963,6/20/2023,12991,Kimia Farma - Apotek,Garut,Jawa Barat,3.9,Brian Peck,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8320138,3/16/2023,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.3,Jordan Douglas,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4692301,11/23/2022,70739,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Roger Wade,5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8251450,9/27/2023,29922,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.9,Ethan Palmer PhD,4.5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2388024,1/20/2022,20073,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4,Derek Townsend DDS,3.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5803309,5/20/2022,60459,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4,Kathryn Valdez,3.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8585119,4/1/2023,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,David Lewis,3.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX2573196,7/7/2023,59449,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Mr. Robert Armstrong,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6293140,9/10/2021,84935,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.2,Mark Reed,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9729463,5/13/2022,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.7,Donna Mata,5,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7363778,1/14/2023,99442,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.9,Kevin Padilla,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3728032,12/10/2023,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.7,Chase Levy,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4415157,4/30/2020,81965,Kimia Farma - Apotek,Denpasar,Bali,3.9,Steven Oconnell,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6202482,7/17/2022,47503,Kimia Farma - Apotek,Denpasar,Bali,4.1,Nichole Brown,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1309895,2/11/2023,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.6,Sydney Green,4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8455990,4/25/2021,27583,Kimia Farma - Apotek,Denpasar,Bali,5,Craig Walker,4.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4378298,8/4/2021,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,Jason Owens,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3943923,1/25/2020,41750,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Steven Parker,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3845083,6/25/2020,36671,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Anthony Kirk,3.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6429532,12/25/2023,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,4.1,Andrew Stevenson,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3287390,11/11/2020,52680,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.3,Andrew Howard,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX3102770,5/26/2021,34034,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.9,Karen Hernandez,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5090344,4/16/2022,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.1,Gabrielle Blevins,3.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9441859,11/13/2023,92755,Kimia Farma - Apotek,Bekasi,Jawa Barat,5,Wendy Stone,3.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5792107,10/4/2021,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Joann Sloan,4.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX5163587,9/7/2020,47342,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.3,Beverly Thomas,4.6,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6184807,11/24/2023,48880,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Heather Schultz,4.7,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1619498,6/3/2020,80343,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.5,Jennifer Holmes,3.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX7854569,10/23/2022,84443,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.2,Christopher Singh,4.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6807276,1/27/2023,87969,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.4,Sean Campbell,3.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6395430,10/6/2021,38733,Kimia Farma - Apotek,Ambon,Maluku,4.9,Robert Smith,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6915143,2/21/2022,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Richard Wyatt,4.3,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX9849162,5/2/2023,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.1,Mike Atkins,4.8,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6846212,5/4/2020,49927,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,Mr. Joseph Ferguson,3.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6312644,4/15/2020,25572,Kimia Farma - Apotek,Bontang,Kalimantan Timur,3.9,James Baker,3.9,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX4258891,10/2/2021,68556,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.8,Sharon Smith,4.1,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX1073896,7/13/2023,39160,Kimia Farma - Apotek,Garut,Jawa Barat,4.5,Nathan Bailey,4.2,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX6915060,5/7/2020,98241,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.5,Vanessa Martinez,4.4,KF829,Drugs for obstructive airway diseases,76900,0.12,0.15,67672,10150.8
+TRX8086345,6/27/2020,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.5,Terry Nelson,3.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6462987,3/28/2023,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.2,Julie Hall,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9304745,10/18/2020,24143,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4,April Robinson,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7203548,2/20/2021,65584,Kimia Farma - Apotek,Semarang,Jawa Tengah,5,Justin Griffin,4.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6264116,10/4/2020,99669,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.2,Brian Chandler,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3811472,5/12/2022,19224,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.4,Phillip Bailey,4.9,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7754027,12/15/2022,72693,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.7,Catherine Moore,5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5850214,3/10/2022,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Jeremy Todd,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3670922,2/18/2022,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jonathan Bowen,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9855008,7/11/2022,25947,Kimia Farma - Apotek,Denpasar,Bali,4.2,Emily Brown,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4199913,2/25/2020,66717,Kimia Farma - Apotek,Subang,Jawa Barat,4.2,Virginia Lawrence,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5955169,3/2/2021,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.2,David Shaffer,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6877975,11/3/2020,36671,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.9,Jennifer Holt,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9164787,8/3/2022,22526,Kimia Farma - Apotek,Jambi,Jambi,4.3,Elizabeth Torres,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4158651,11/27/2023,27998,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.3,Sara Smith,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1846232,5/20/2021,56877,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Antonio Walker,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3297627,11/3/2020,14433,Kimia Farma - Apotek,Gorontalo,Gorontalo,4,Nicholas Gray,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6449912,6/5/2022,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.5,Ashley Thompson,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1187019,5/3/2022,63815,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Joshua Phillips,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2848850,10/26/2023,15949,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Brian Sullivan,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2464676,2/5/2023,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Shannon Garza,4.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3982290,5/8/2020,71367,Kimia Farma - Apotek,Dumai,Riau,4.2,Bryan Fuller,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5799572,6/1/2021,81008,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.8,Michael Reilly,3.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4445538,11/15/2022,53257,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.7,Miguel Crawford,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8164141,9/2/2023,57562,Kimia Farma - Apotek,Probolinggo,Jawa Timur,5,Charles Morris,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8268084,10/23/2022,35572,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.6,Heather Jenkins,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1888167,12/10/2022,35019,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,5,Hunter Combs,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9917329,12/10/2023,91201,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.7,Susan White,3.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7900341,10/20/2022,89566,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.4,Christian Powell,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3883929,9/20/2020,48997,Kimia Farma - Apotek,Padang,Sumatera Barat,4.2,Lauren Gillespie,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4281435,10/8/2021,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4,Elizabeth Simmons PhD,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2791394,6/5/2021,32332,Kimia Farma - Apotek,Malang,Jawa Timur,4.1,Cameron Jones,3.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3285436,3/1/2022,27518,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Phillip Oliver,4.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8790428,3/5/2022,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.8,James Walker,4.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3817394,11/10/2020,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.5,Amy Daniels,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1558743,11/9/2021,65315,Kimia Farma - Apotek,Semarang,Jawa Tengah,4,Ryan Murphy,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7085969,7/24/2021,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.2,Jonathon Henderson,4.9,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6927320,9/15/2020,56801,Kimia Farma - Apotek,Subang,Jawa Barat,5,Manuel Brennan,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6748894,5/16/2020,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.1,Daniel Wilson,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7658218,7/9/2022,68313,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.8,Megan Burns,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8023572,3/16/2021,65947,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,Brian Smith,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8898801,7/14/2021,35019,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,5,Lauren Paul,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2799286,6/7/2022,86131,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Cody Cantrell,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9572004,10/20/2021,99697,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Brandy Hamilton,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6886736,5/15/2020,33488,Kimia Farma - Apotek,Denpasar,Bali,4.8,Crystal Olson,3.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6767784,4/4/2020,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Christopher Freeman,4.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7475713,7/23/2022,28114,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.8,Nicole Le,3.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3355833,10/14/2021,90334,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.4,Allison Graham,3.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1399548,5/6/2020,68034,Kimia Farma - Apotek,Ambon,Maluku,4.1,Angel Brown,4.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4608387,3/18/2020,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.7,Marie Noble MD,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4782215,3/26/2020,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.2,Theresa Gutierrez,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6374508,8/11/2021,31706,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.1,Carl Bradshaw,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1336597,10/23/2021,48880,Kimia Farma - Apotek,Subang,Jawa Barat,4.8,Melanie Williams,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8602325,3/14/2022,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Monica Garcia,4.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9889093,6/28/2021,13089,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Jordan Lee,4.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1361601,6/24/2020,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.7,Amy Walker,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1327625,8/22/2020,96720,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4,David Guerrero,3.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9917092,11/6/2020,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.1,Leslie Evans,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8388914,12/15/2021,23471,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.3,Taylor Fuentes,4.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9085167,2/12/2020,80802,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.9,Brandon Richardson DDS,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2959139,8/22/2022,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.7,Michael Benson,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6016052,7/19/2022,21930,Kimia Farma - Apotek,Solok,Sumatera Barat,4.9,Rebecca Holland,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9910433,5/3/2022,74030,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.5,Jerry Ward,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8589552,8/11/2021,24592,Kimia Farma - Apotek,Ciamis,Jawa Barat,3.9,Kevin Rodriguez MD,4.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8147171,12/30/2021,80387,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.9,Melissa Daniel,3.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2345920,9/29/2020,73969,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.1,Lauren Robinson,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4686363,7/8/2021,71367,Kimia Farma - Apotek,Dumai,Riau,4.2,Brandon Wilkins,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3347104,9/23/2022,42965,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4,Billy Cross,4.9,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4465750,10/6/2020,40625,Kimia Farma - Apotek,Karawang,Jawa Barat,4.4,Robert Parker,5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7477503,5/26/2022,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.5,Franklin Martinez,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1301163,9/6/2021,18786,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Keith Barry,3.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9497137,5/7/2023,68556,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.8,Rose Fleming,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1684826,6/3/2021,43283,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.6,Amanda Mercer,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3237393,8/23/2023,44604,Kimia Farma - Apotek,Bandung,Jawa Barat,4.2,Angela Bradley,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7930966,8/12/2022,22526,Kimia Farma - Apotek,Jambi,Jambi,4.3,Cynthia Brown,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9796218,3/21/2023,90734,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Angela Adams,3.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1316742,2/4/2023,12560,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.4,John Murray,3.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3992935,7/27/2020,70971,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.8,Gabrielle Hogan,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8858887,10/9/2021,27679,Kimia Farma - Apotek,Batam,Kepulauan Riau,4,Deborah Curry,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2170599,10/20/2022,35836,Kimia Farma - Apotek,Malang,Jawa Timur,4.5,Michael Foster,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3426254,2/8/2021,58873,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.8,Jennifer Thompson,4.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2474712,11/2/2020,66421,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,5,Kevin Rodriguez,4.9,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX3967765,7/2/2020,70395,Kimia Farma - Apotek,Medan,Sumatera Utara,4.6,Gregory Burton,5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4493341,2/23/2023,58354,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.2,Elizabeth Stevens,3.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5950741,3/2/2021,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.6,Amy Mccarthy,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5879713,9/21/2021,92582,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.4,Jeffrey Jones,3.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2873555,9/13/2021,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.1,Jennifer Hunt,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX8273163,12/3/2020,70595,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Gregory Lewis,4.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6935320,11/17/2020,44502,Kimia Farma - Apotek,Manado,Sulawesi Utara,4.1,Andrea Collier MD,4.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9985137,1/13/2022,16339,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,Darius Schmidt,4.7,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4795425,11/6/2020,54503,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.9,Jared Delacruz,3.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9361912,2/26/2023,70739,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Rachel Allen,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5022234,6/9/2021,14799,Kimia Farma - Apotek,Ambon,Maluku,4.6,Mary Bailey,4.1,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6447804,4/27/2022,73569,Kimia Farma - Apotek,Madiun,Jawa Timur,4.4,Amanda Montgomery,4.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5711596,10/17/2021,98811,Kimia Farma - Apotek,Bontang,Kalimantan Timur,4.9,Roger Foster,3.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7260911,9/21/2020,20566,Kimia Farma - Apotek,Lhokseumawe,Aceh,4,Charlene Franco,4.8,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2563168,3/22/2022,34591,Kimia Farma - Apotek,Jayapura,Papua,4.4,Kristin White,4.3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX5733186,1/21/2022,39162,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.9,Melissa Taylor,3.2,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX9991910,6/10/2022,20261,Kimia Farma - Apotek,Garut,Jawa Barat,4.3,Darren Sanchez,4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4362145,6/1/2023,12027,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Matthew Jones,4.6,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX7312100,1/1/2022,65948,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,4.4,Christopher Peterson,3.4,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1739540,12/13/2020,92582,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.4,Sandra Hull,4.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX2714971,5/5/2020,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.9,Robert Davila,3,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX1637605,2/12/2022,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.2,Brent Merritt,3.5,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX6497131,10/31/2020,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Cory Butler,3.9,KF829,Drugs for obstructive airway diseases,76900,0.11,0.15,68441,10266.15
+TRX4588884,2/23/2021,51833,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.2,Sandra Thompson,4.2,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX4151295,8/14/2022,38172,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,5,Mark Carter,3.7,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX9290685,10/18/2021,67421,Kimia Farma - Apotek,Bontang,Kalimantan Timur,3.9,Danielle Brown,4.1,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX3198914,3/1/2022,25390,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.9,Timothy Fisher,3.2,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX3068812,9/6/2023,21583,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.9,Dana Keller,4.8,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX7523879,1/3/2023,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Jason Dudley,5,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX7160383,3/11/2022,13775,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,5,Nathan Butler,3.5,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX4640667,10/25/2021,96558,Kimia Farma - Apotek,Denpasar,Bali,4.7,Christopher Rivera,4.3,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX9579443,11/16/2022,73625,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.9,Katrina Weber,3,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
+TRX8848465,8/9/2021,68942,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.8,Daniel Roberts,4,KF829,Drugs for obstructive airway diseases,76900,0.1,0.15,69210,10381.5
